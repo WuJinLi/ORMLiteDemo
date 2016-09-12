@@ -62,3 +62,8 @@ public class Student {
    create(T data)增加  int
    delete(T data)删除  int
    update(T data)修改  int
+   
+   
+   资料推荐网址
+   http://ormlite.com/docs/ormlite.pdf
+   http://www.jianshu.com/p/75c520dc0926
